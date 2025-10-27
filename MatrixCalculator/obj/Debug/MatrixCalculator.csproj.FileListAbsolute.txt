@@ -1,0 +1,19 @@
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csprojResolveAssemblyReference.cache
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.Properties.Resources.resources
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.GenerateResource.Cache
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
+c:\users\gamingpc\documents\visual studio 2015\Projects\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.Form1.resources
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.AssemblyReference.cache
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\obj\Debug\MatrixCalculator.Form1.resources
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\obj\Debug\MatrixCalculator.Properties.Resources.resources
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.GenerateResource.cache
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+C:\Users\saven\Desktop\MatrixCalculator 1\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
